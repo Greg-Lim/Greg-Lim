@@ -6,6 +6,7 @@
 - [🛠](## "Technologies") React, Node, Express, MongoDB
 
 ### 🤹 I'm Currently
+- Studying as a CS student in NTU
 - Building a front-end web page for TOP 2022
 
 
