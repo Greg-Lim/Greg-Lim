@@ -7,7 +7,11 @@
 
 ### 🤹 I'm Currently
 - Studying as a CS student in NTU
-- Building a front-end web page for TOP 2022
+
+
+### ✨ I'm Intrested in
+- Cybersecurity
+- Computer Network
 
 
 ### 🎯 I Want To
