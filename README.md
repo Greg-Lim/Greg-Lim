@@ -10,8 +10,7 @@
 
 
 ### ✨ I'm Intrested in
-- Cybersecurity
-- Computer Network
+- Algorithm design and implementation
 
 
 ### 🎯 I Want To
