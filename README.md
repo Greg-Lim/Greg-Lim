@@ -1,18 +1,8 @@
 # 👋 Hello
-- [🏫](## "University") NTU
-- [🎓](## "Degree") CS
-- [♥](## "Hobby/Intrest") Badminton
-- [📚](## "Langueges") C, Python, Java, JS, HTML, CSS
-- [🛠](## "Technologies") React, Node, Express, MongoDB
+🎓 I graduated with a computer science degree from NTU in 2025
+😍 I love Badminton, Running and Skiing
+I am proficient in Python, JS/TS, Go
+I am competent C, Java, HTML/CSS, C++
+I am working to learn Rust 🦀
 
-### 🤹 I'm Currently
-- Studying as a CS student in NTU
-
-
-### ✨ I'm Intrested in
-- Algorithm design and implementation
-
-
-### 🎯 I Want To
-- Build a full stack web app one day🕸
-- 
+Currently learning new technologies 🤹
